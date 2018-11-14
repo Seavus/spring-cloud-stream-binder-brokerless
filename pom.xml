@@ -5,7 +5,7 @@
 
     <groupId>com.seavus</groupId>
     <artifactId>spring-cloud-stream-binder-brokerless</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
     <name>spring-cloud-stream-binder-brokerless</name>
     <description>Brokerless spring cloud stream binder implementation</description>
