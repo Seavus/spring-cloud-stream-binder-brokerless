@@ -1,0 +1,2 @@
+brokerless:\
+com.seavus.cloud.stream.binder.brokerless.config.BrokerlessServiceAutoConfiguration
